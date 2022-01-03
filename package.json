@@ -1,5 +1,6 @@
 {
   "name": "firegram",
+  "homepage": "https://bykivi.com/react-gallery/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
